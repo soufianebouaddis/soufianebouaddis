@@ -51,7 +51,7 @@
   <a href="https://github.com/soufianebouaddis" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:soufiane.bouaddis@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
 </p>
