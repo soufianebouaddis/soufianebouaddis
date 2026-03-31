@@ -1,6 +1,6 @@
 # Hi, I'm Soufiane Bouaddis  
 
-- **Software Engineer** specialized in ** backend development and distributed systems**.  
+- **Software Engineer** specialized in **backend development and distributed systems**.  
 - Passionate about designing **scalable, secure, and high-performance systems**.  
 - Focused on building **robust backend architectures using the Spring ecosystem and modern DevOps practices**.
 
