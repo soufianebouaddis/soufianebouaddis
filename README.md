@@ -48,6 +48,6 @@ I build scalable and reliable backend systems using Java, Spring, and modern Dev
 
 ## Contact
 
-[GitHub](https://github.com/soufianebouaddis) · [Email](mailto:soufiane.bouaddis@outlook.com)
+[Email](mailto:soufiane.bouaddis@outlook.com)
 
 Open to collaboration and to building scalable systems.
