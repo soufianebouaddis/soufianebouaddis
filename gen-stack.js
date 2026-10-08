@@ -31,7 +31,7 @@ const STACK = [
     ],
   },
   {
-    title: "DevOps",
+    title: "DevOps & Cloud",
     items: [
       { name: "Docker", icon: "siDocker" },
       { name: "Kubernetes", icon: "siKubernetes" },
@@ -52,7 +52,7 @@ const STACK = [
     ],
   },
   {
-    title: "AI & Security",
+    title: "AI",
     items: [
       { name: "Spring AI", icon: "siSpring" },
       { name: "RAG", glyph: "R", color: "#8E44AD" },
