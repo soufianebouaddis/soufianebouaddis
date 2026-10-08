@@ -37,6 +37,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,html,css" />
 </p>
+### AI
+
+- LLMs
+- Spring AI
+- RAG
+- AI Agents
+- Tool Calling
+- Local LLMs
 
 ### ⚙️ DevOps & Tools
 <p align="left">
