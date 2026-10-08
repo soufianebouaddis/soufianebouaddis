@@ -40,7 +40,7 @@ I build scalable and reliable backend systems using Java, Spring, and modern Dev
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
+![Confidential Computing](https://img.shields.io/badge/Confidential_Computing-2C5364?style=flat-square)
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -53,7 +53,7 @@ I build scalable and reliable backend systems using Java, Spring, and modern Dev
 ![RAG](https://img.shields.io/badge/RAG-8E44AD?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-E67E22?style=flat-square)
 ![Local LLMs](https://img.shields.io/badge/Local_LLMs-C0392B?style=flat-square)
-![Confidential Computing](https://img.shields.io/badge/Confidential_Computing-2C5364?style=flat-square)
+
 ## GitHub Stats
 
 <p>
