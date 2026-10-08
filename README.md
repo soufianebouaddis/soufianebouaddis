@@ -3,13 +3,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Soufiane%20Bouaddis&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20GenAI&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/soufianebouaddis">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+scalable+and+secure+backends;Java+%26+Spring+ecosystem+enthusiast;Exploring+AI+agents+and+RAG;Based+in+Casablanca%2C+Morocco" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=620&lines=Building+scalable+and+secure+backends;Java+%26+Spring+ecosystem+enthusiast;C%23+and+.NET+developer;Exploring+AI+agents+and+RAG;Based+in+Casablanca%2C+Morocco" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -46,7 +48,7 @@ I like to design systems that are **scalable, secure, and fast**.
 **Backend**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,kafka,postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,hibernate,maven,kafka,postgres,mysql&theme=dark" />
 </p>
 
 **Frontend**
