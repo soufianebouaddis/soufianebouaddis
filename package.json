@@ -1,0 +1,6 @@
+{
+  "name": "soufianebouaddis-profile",
+  "private": true,
+  "scripts": { "build": "node scripts/generate-stack.js" },
+  "devDependencies": { "simple-icons": "13.21.0" }
+}
