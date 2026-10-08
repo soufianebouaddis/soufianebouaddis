@@ -38,6 +38,7 @@ const STACK = [
       { name: "Jenkins", icon: "siJenkins" },
       { name: "Linux", icon: "siLinux" },
       { name: "AWS", icon: "siAmazonwebservices" },
+      { name: "Confidential Computing", glyph: "C", color: "#2C8FB5" },
     ],
   },
   {
@@ -57,7 +58,6 @@ const STACK = [
       { name: "RAG", glyph: "R", color: "#8E44AD" },
       { name: "AI Agents", glyph: "A", color: "#E67E22" },
       { name: "Local LLMs", glyph: "L", color: "#4FC3F7" },
-      { name: "Confidential Computing", glyph: "C", color: "#2C8FB5" },
     ],
   },
 ];
