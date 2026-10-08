@@ -38,7 +38,6 @@
   <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,html,css" />
 </p>
 ### AI
-
 - LLMs
 - Spring AI
 - RAG
