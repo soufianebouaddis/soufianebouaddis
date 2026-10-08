@@ -12,7 +12,7 @@ I build scalable and reliable backend systems using Java, Spring, and modern Dev
 | Event-driven architectures | AI agents and tool calling | Infrastructure automation |
 | High-performance Java services | RAG with backend systems | Developer tools |
 | Security and resilience | Spring AI and local LLMs | Backend platforms |
-
+| Confidential computing | Secure AI inference | Trusted execution environments |
 ## Tech Stack
 
 **Backend**  
@@ -53,7 +53,7 @@ I build scalable and reliable backend systems using Java, Spring, and modern Dev
 ![RAG](https://img.shields.io/badge/RAG-8E44AD?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-E67E22?style=flat-square)
 ![Local LLMs](https://img.shields.io/badge/Local_LLMs-C0392B?style=flat-square)
-
+![Confidential Computing](https://img.shields.io/badge/Confidential_Computing-2C5364?style=flat-square)
 ## GitHub Stats
 
 <p>
