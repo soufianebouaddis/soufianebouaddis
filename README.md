@@ -23,10 +23,10 @@
 I am a **Software Engineer** focused on **backend development and distributed systems**.
 I like to design systems that are **scalable, secure, and fast**.
 
-- 🏗️ I build robust backend architectures with the **Spring ecosystem** and modern **DevOps** practices.
-- 📍 Based in **Casablanca, Morocco**.
-- 🧠 I am now exploring how **LLMs** can be used inside real software products.
-- 🔧 I always try to improve my engineering practices and learn new tools.
+-  I build robust backend architectures with the **Spring ecosystem** and modern **DevOps** practices.
+-  Based in **Casablanca, Morocco**.
+-  I am now exploring how **LLMs** can be used inside real software products.
+-  I always try to improve my engineering practices and learn new tools.
 
 <br/>
 
