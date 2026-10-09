@@ -1,6 +1,6 @@
 # Soufiane Bouaddis
 
-Backend Engineer focused on distributed systems and AI-powered applications. Based in Casablanca, Morocco.
+Software Engineer focused on distributed systems and AI-powered applications. Based in Casablanca, Morocco.
 
 I build scalable and reliable backend systems using Java, Spring, and modern DevOps practices. Currently exploring LLM applications, AI agents, RAG, and tool calling, with a focus on integrating AI into real-world software systems.
 
